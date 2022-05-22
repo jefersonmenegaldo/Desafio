@@ -1,4 +1,4 @@
-Desafio Tecnico
+Desafio Técnico
 
 O desafio consiste em:
 - Construir uma aplicação com uma tela apenas, que:
