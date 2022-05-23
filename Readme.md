@@ -9,3 +9,5 @@ URL: https://pokeapi.glitch.me/v1/pokemon/6
 Serão considerados como diferenciais:
 - Mostrar loading ou skeleton enquanto carrega
 - Mostrar imagem do pokemon em cada item da lista
+
+Projeto criado utilizando o Delphi 10.4 Community Edition
